@@ -1,4 +1,6 @@
 # prismarine-item
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/PrismarineJS/prismarine-item.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/prismarine-item.svg)](http://npmjs.com/package/prismarine-item)
 
 Represent a minecraft item with its associated data
