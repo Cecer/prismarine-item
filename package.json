@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrismarineJS/prismarine-item.git"
+    "url": "git+https://github.com/CEcer/prismarine-item.git"
   },
   "peerDependencies": {
     "minecraft-data": "^2.35.0"
